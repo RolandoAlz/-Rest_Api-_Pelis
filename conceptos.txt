@@ -1,0 +1,14 @@
+que es una REST API? 
+ es un conjunto de reglas de como diseñar las rutas de la api
+
+
+
+
+ Underscore.js
+ es un biblioteca que nos da funcianlidades de recorrer un arreglo
+
+
+
+ node-fetch
+podemos usar para hacer peticiones a otros servicios
+ npm i node-fetch
